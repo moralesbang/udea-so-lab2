@@ -3,6 +3,6 @@
 
 int main()
 {
-  char *ptr = malloc(100); // Reserve memory
-  return 0;                // Finish without free
+    char *ptr = malloc(100);    // Reserve memory
+    return 0;                   // Finish without free
 }
